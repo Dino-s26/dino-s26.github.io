@@ -1,0 +1,6 @@
+# Ignore Hugo default TOML config
+hugo.toml
+*/hugo.toml
+
+# Ignore .DS_Store
+.DS_Store
