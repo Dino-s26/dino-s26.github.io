@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dino-s26</title>
+    <link>https://dinos26.cloud/</link>
+    <description>Recent content on Dino-s26</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dinos26.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World !</title>
+      <link>https://dinos26.cloud/posts/nov-23/hello-world/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinos26.cloud/posts/nov-23/hello-world/</guid>
+      <description>First Post ! Thanks for visiting, currently it is empty, and I put this as placeholder. I plan to have upcoming post later on, but still busy with my works, be sure to stay tuned with updates on my web / blog / or whatever you call it today 😄</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://dinos26.cloud/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinos26.cloud/about/</guid>
+      <description>&amp;gt; Who Am I and What I Do ? I&amp;rsquo;m Dino, an Infrastructure SRE currently working remotely for a Fintech company in Indonesia. My background in network infrastructure and currently learning infrastructure as code and also cloud tech, which allow me to bring a unique combination of technical skills and problem-solving abilities to the table. With a focus on optimizing, automating and help to scale the infrastructure, I&amp;rsquo;m passionate about IT, and also other topic such gaming, financial also tech in general.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://dinos26.cloud/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinos26.cloud/archive/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

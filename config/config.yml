@@ -1,0 +1,80 @@
+baseURL: 'https://dinos26.cloud'
+languageCode: 'en-us'
+title: 'Dino-s26'
+paginate: 5
+
+
+theme: "PaperMod"
+
+enableRobotsTXT: false
+buildDrafts: true
+buildFuture: true
+buildExpired: false
+
+enableEmoji: true
+
+disableThemeToggle: true
+
+minify:
+  minifyOutput: true
+  disableXML: true
+
+menu: 
+  main: 
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20 
+    - idenfitier: archive
+      name: Archive
+      url: /archive/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+params:
+  env: production
+  assets:
+    disableFingerprinting: true
+  mainSections:
+  - posts
+  homeInfoParams:
+      Title: Hellow, and welcome 
+      Content: "I'm Dino, a Tech entusiast, like to learn new tech and write posts to be share as knowledge ... [more](about)"
+
+  socialIcons:
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/alldino-syaman-5b1799109/"
+    - name: "Instagram"
+      url: "https://www.instagram.com/dino_s26/"
+    - name: "Github"
+      url: "https://github.com/Dino-s26"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddhenInSingle: true
+
+  fuseOpts:
+   isCaseSensitive: false
+   shouldSort: true
+   location: 0
+   distance: 1000
+   threshold: 0.5
+   minMatchCharLength: 0
+   keys: ["title","permalink","summary","content","tag"]
+
+  ouputs:
+    home: 
+      - HTML
+      - RSS
+      - JSON
+
+  staticDir:
+  - static
