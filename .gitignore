@@ -4,3 +4,6 @@ hugo.toml
 
 # Ignore .DS_Store
 .DS_Store
+
+# Ignore .hugo_build.lock
+.hugo_build.lock
