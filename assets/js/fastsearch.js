@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open('GET', "https://dinos26.cloud/index.json");
+    xhr.open('GET', "../index.json");
     xhr.send();
 }
 

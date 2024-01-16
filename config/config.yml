@@ -66,8 +66,9 @@ params:
     hidden: true
     hiddenInList: true
     hiddhenInSingle: true
-
-   shouldSort: true
+    shouldSort: true
+  
+  
   # fuseOpts:
   #  isCaseSensitive: false
   #  shouldSort: true
