@@ -12,8 +12,6 @@ buildExpired: false
 
 enableEmoji: true
 
-disableThemeToggle: true
-
 minify:
   minifyOutput: true
   disableXML: true
@@ -48,6 +46,8 @@ params:
   env: production
   assets:
     disableFingerprinting: true
+  defaultTheme: dark
+  disableThemeToggle: false
   mainSections:
   - posts
   homeInfoParams:
