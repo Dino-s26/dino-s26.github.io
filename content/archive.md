@@ -1,6 +1,7 @@
 ---
 title: "Archive" 
-layout: "archive" 
-url: "/archive/"
+layout: "archives" 
+url: "/archives/"
+summary: archives
 showBreadCrumbs: true
 ---
