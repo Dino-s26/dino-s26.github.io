@@ -48,6 +48,7 @@ params:
     disableFingerprinting: true
   defaultTheme: dark
   disableThemeToggle: false
+  ShowPostNavLinks: true
   mainSections:
   - posts
   homeInfoParams:
