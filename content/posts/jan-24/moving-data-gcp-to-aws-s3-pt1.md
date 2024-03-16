@@ -104,4 +104,7 @@ life time using the services ...
 
 #### End of Part-1
 
-[TBD Part-2]({{< ref "" >}} "")
+Since it is to long to put into 1 post, I will break it down into couple of parts
+
+- [Part-2, How I'm moving to AWS S3 Pt.2]({{< ref "/moving-data-gpc-to-aws-s3-pt2/" >}} "Moving Data from GCP to AWS S3 Part-2")
+- [TBD Part-3]({{< ref "" >}} "")

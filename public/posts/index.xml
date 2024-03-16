@@ -2,18 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dino-s26</title>
-    <link>https://dino-s26.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on Dino-s26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dino-s26.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I&#39;m moving to AWS S3 Pt.2</title>
+      <link>http://localhost:1313/posts/mar-24/moving-data-gpc-to-aws-s3-pt2/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mar-24/moving-data-gpc-to-aws-s3-pt2/</guid>
+      <description>Intermezzo Henlo, back again &amp;hellip; Been a while I haven&amp;rsquo;t write the continuation of this story of how I&amp;rsquo;m moving my data from GCP Cloud Storage to AWS S3. much already happen, this and that don&amp;rsquo;t really want to go into detail but here I&amp;rsquo;m back &amp;hellip;
+but before begin, sorry for not posting but I will try to make post about anything for now atleast once a month, if I dont have then I don&amp;rsquo;t really have something to post at the moment and probably busy with my new job &amp;#x1f613;.</description>
+    </item>
+    
+    <item>
+      <title>Is &#39;HER&#39; become reality ?, R1 Companion Device</title>
+      <link>http://localhost:1313/posts/feb-24/is-her-become-reality/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/feb-24/is-her-become-reality/</guid>
+      <description>Intermezzo You guys remember there&amp;rsquo;s movie called &amp;ldquo;HER&amp;rdquo;, where the protagonis Theodore Twombly the introvert letter writer decide to buy OS1, an AI first OS which somehow Theodore become attached to the AI. While he try to understand the AI (aka Samantha), he also going through divorce with his wife, which is sad but somehow, day by day Theodore become attached to Samantha until one day Samantha become self aware and then it leave Theodore.</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m moving to AWS S3 Pt.1</title>
+      <link>http://localhost:1313/posts/jan-24/moving-data-gcp-to-aws-s3-pt1/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/jan-24/moving-data-gcp-to-aws-s3-pt1/</guid>
+      <description>Intermezzo Henlo and Happy New Year 2024, I hope you guys in healthy condition and still have lots to achieve this year &amp;#x1f601;
+So, actually long story short &amp;hellip; I&amp;rsquo;m actually GCP person since 2018/2019, the first time I ever learn Cloud Tech and also getting my first certificate in cloud, even tho it is still associate level lol. By that time I&amp;rsquo;m getting used to using GCP as my primary Cloud Stacks</description>
+    </item>
+    
     <item>
       <title>Hello World !</title>
-      <link>https://dino-s26.github.io/posts/nov-23/hello-world/</link>
+      <link>http://localhost:1313/posts/nov-23/hello-world/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dino-s26.github.io/posts/nov-23/hello-world/</guid>
-      <description>First Post ! Thanks for visiting, currently it is empty, and I put this as placeholder. I plan to have upcoming post later on, but still busy with my works, be sure to stay tuned with updates on my web / blog / or whatever you call it today 😄</description>
+      <guid>http://localhost:1313/posts/nov-23/hello-world/</guid>
+      <description>First Post ! Thanks for visiting, currently it is empty, and I put this as placeholder. I plan to have upcoming post later on, but still busy with my works, be sure to stay tuned with updates on my web / blog / or whatever you call it today &amp;#x1f604;</description>
     </item>
     
   </channel>

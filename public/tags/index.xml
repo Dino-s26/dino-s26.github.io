@@ -2,17 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dino-s26</title>
-    <link>https://dino-s26.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Dino-s26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dino-s26.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hello world</title>
-      <link>https://dino-s26.github.io/tags/hello-world/</link>
+      <title>Aws</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Storage</title>
+      <link>http://localhost:1313/tags/cloud-storage/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Tech</title>
+      <link>http://localhost:1313/tags/cloud-tech/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gcp</title>
+      <link>http://localhost:1313/tags/gcp/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>http://localhost:1313/tags/s3/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Companion Device</title>
+      <link>http://localhost:1313/tags/companion-device/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/companion-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie:HER</title>
+      <link>http://localhost:1313/tags/movieher/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/movieher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbit-Os</title>
+      <link>http://localhost:1313/tags/rabbit-os/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rabbit-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbit-R1</title>
+      <link>http://localhost:1313/tags/rabbit-r1/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rabbit-r1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/tags/hello-world/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dino-s26.github.io/tags/hello-world/</guid>
+      <guid>http://localhost:1313/tags/hello-world/</guid>
       <description></description>
     </item>
     
