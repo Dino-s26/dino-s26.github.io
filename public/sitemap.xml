@@ -2,27 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dino-s26.github.io/posts/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aws/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-storage/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-tech/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gcp/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mar-24/moving-data-gpc-to-aws-s3-pt2/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/s3/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/companion-device/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/feb-24/is-her-become-reality/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/movieher/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rabbit-os/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rabbit-r1/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/jan-24/moving-data-gcp-to-aws-s3-pt1/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hello-world/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dino-s26.github.io/</loc>
+    <loc>http://localhost:1313/posts/nov-23/hello-world/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dino-s26.github.io/tags/hello-world/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://dino-s26.github.io/posts/nov-23/hello-world/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://dino-s26.github.io/tags/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://dino-s26.github.io/about/</loc>
-  </url><url>
-    <loc>https://dino-s26.github.io/archive/</loc>
-  </url><url>
-    <loc>https://dino-s26.github.io/categories/</loc>
-  </url><url>
-    <loc>https://dino-s26.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
