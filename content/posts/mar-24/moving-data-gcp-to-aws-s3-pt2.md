@@ -95,5 +95,5 @@ The reason why it is costly because at the time the data on GCP Cloud Storage ar
 That's a little bit of deep dive of what happen during the migration of the data from GCP Cloud Storage to AWS S3
 will continue in the next part for the technical stuff
 
-- [Part-1, Why I'm moving to AWS S3 Pt.1]({{< ref "/posts/jan-24/moving-data-gcp-to-aws-s3-pt1/" >}} "Moving Data from GCP to AWS S3 Part-1")
+- [Part-1, Why I'm moving to AWS S3 Pt.1](/posts/jan-24/moving-data-gcp-to-aws-s3-pt1/ "Moving Data from GCP to AWS S3 Part-1")
 - [TBD Part-3]({{< ref "" >}} "")
