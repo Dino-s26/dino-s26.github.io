@@ -6,13 +6,13 @@
     <description>Recent content in Cloud Storage on Dino-s26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I&#39;m moving to AWS S3 Pt.2</title>
-      <link>http://localhost:1313/posts/mar-24/moving-data-gpc-to-aws-s3-pt2/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/mar-24/moving-data-gcp-to-aws-s3-pt2/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mar-24/moving-data-gpc-to-aws-s3-pt2/</guid>
+      <guid>http://localhost:1313/posts/mar-24/moving-data-gcp-to-aws-s3-pt2/</guid>
       <description>Intermezzo Henlo, back again &amp;hellip; Been a while I haven&amp;rsquo;t write the continuation of this story of how I&amp;rsquo;m moving my data from GCP Cloud Storage to AWS S3. much already happen, this and that don&amp;rsquo;t really want to go into detail but here I&amp;rsquo;m back &amp;hellip;
 but before begin, sorry for not posting but I will try to make post about anything for now atleast once a month, if I dont have then I don&amp;rsquo;t really have something to post at the moment and probably busy with my new job &amp;#x1f613;.</description>
     </item>
