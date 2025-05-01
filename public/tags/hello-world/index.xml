@@ -4,17 +4,21 @@
     <title>Hello World on Dino-s26</title>
     <link>http://localhost:1313/tags/hello-world/</link>
     <description>Recent content in Hello World on Dino-s26</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World !</title>
       <link>http://localhost:1313/posts/nov-23/hello-world/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/nov-23/hello-world/</guid>
-      <description>First Post ! Thanks for visiting, currently it is empty, and I put this as placeholder. I plan to have upcoming post later on, but still busy with my works, be sure to stay tuned with updates on my web / blog / or whatever you call it today &amp;#x1f604;</description>
+      <description>&lt;h3 id=&#34;first-post-&#34;&gt;First Post !&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Thanks for visiting, currently it is empty, and I put this as placeholder.
+I plan to have upcoming post later on, but still busy with my works, be sure to
+stay tuned with updates on my web / blog / or whatever you call it today &amp;#x1f604;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,7 +1,8 @@
 baseURL: 'https://dino-s26.github.io'
 languageCode: 'en-us'
 title: 'Dino-s26'
-paginate: 5
+pagination:
+  pagerSize: "5"
 
 theme: "PaperMod"
 
@@ -16,31 +17,30 @@ minify:
   minifyOutput: true
   disableXML: true
 
-menu: 
-  main: 
-    - identifier: about
-      name: About Me
-      url: /about/
-      weight: 10
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 20 
-    - idenfitier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 40
-
+menu:
+  main:
+  - identifier: about
+    name: About Me
+    url: /about/
+    weight: 10
+  - identifier: posts
+    name: Posts
+    url: /posts/
+    weight: 20
+  - idenfitier: archives
+    name: Archives
+    url: /archives/
+    weight: 30
+  - identifier: search
+    name: Search
+    url: /search/
+    weight: 40
 
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
+  - HTML
+  - RSS
+  - JSON
 
 params:
   env: production
@@ -57,24 +57,23 @@ params:
   mainSections:
   - posts
   homeInfoParams:
-      Title: Hellow, and welcome 
-      Content: "I'm Dino, a Tech entusiast, like to learn new tech and write posts to be share as knowledge ... [more](about)"
+    Title: Hellow, and welcome
+    Content: "I'm Dino, a Tech entusiast, like to learn new tech and write posts to be share as knowledge ... [more](about)"
 
   socialIcons:
-    - name: "Linkedin"
-      url: "https://www.linkedin.com/in/alldino-syaman-5b1799109/"
-    - name: "Instagram"
-      url: "https://www.instagram.com/dino_s26/"
-    - name: "Github"
-      url: "https://github.com/Dino-s26"
+  - name: "Linkedin"
+    url: "https://www.linkedin.com/in/alldino-syaman-5b1799109/"
+  - name: "Instagram"
+    url: "https://www.instagram.com/dino_s26/"
+  - name: "Github"
+    url: "https://github.com/Dino-s26"
 
   cover:
     hidden: true
     hiddenInList: true
     hiddhenInSingle: true
     shouldSort: true
-  
-  
+
   # fuseOpts:
   #  isCaseSensitive: false
   #  shouldSort: true
