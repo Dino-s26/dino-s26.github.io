@@ -51,3 +51,5 @@ here's the total billing each month I pay (Converted to $, for AWS Cost Comparis
 ![GCP Cost Billing](/img/nov-24/moving-data-gcp-to-aws-s3-pt3/gcp-cloud-storage-cost.png "GCP Cost Billing")
 
 As we can see this is all the cost I have to pay during my data migration from GCP Cloud Storage to AWS S3 ...
+
+The spike in price is expected as we change the storage class and download data during the migration.
