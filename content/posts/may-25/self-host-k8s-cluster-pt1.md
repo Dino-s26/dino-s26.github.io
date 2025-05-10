@@ -21,7 +21,7 @@ tags:
 
 Howdy :cowboy_hat_face:
 Been while I didn't update my post here, so in this post I will update my journey on self-host my kubernetes cluster.
-Yes you heard it right, since I got exposure to Kubernetes (also known as K8s in short) from EKS (Elastic Kubernetes Service by AWS) from my previous work
+Yes you heard it right, since I got exposure to Kubernetes (also known as K8s in short) from EKS (Elastic Kubernetes Service by AWS) from my previous work. 
 I got weird idea to fullfill my hands-on experience to learn more on K8s, also preparing myself if I change my mind in the future to get CKA certification.
 </p>
 
@@ -38,7 +38,7 @@ if you new to the K8s or Kubernetes, here are the short summary of what is it ..
 ```
 Kubernetes also known as (K8s in short) are open-source 
 container orchestration system to automate the deployment of application, 
-scalling and also it is management.
+scaling and also it is management.
 
 Originally design by Google employee then continously maintained 
 by CNCF (Cloud Native Computing Foundation) under Linux Foundation.
@@ -89,3 +89,7 @@ Before I close this, here's are the look of my Kubernetes Cluster Setup to you c
 </p>
 
 ![Microk8s Cluster setup](/img/may-25/self-host-kubernetes-pt1/microk8s-diagram.svg "Microk8s Cluster Diagram")
+
+
+
+- [Self-host Kubernetes Cluster Pt.2](/posts/may-25/self-host-k8s-cluster-pt1/ "Self-host Kubernetes Cluster Pt.1")

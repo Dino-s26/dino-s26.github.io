@@ -6,15 +6,36 @@
     <description>Recent content in Tech on Dino-s26</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-host Kubernetes Cluster Pt.2</title>
+      <link>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt2/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt2/</guid>
+      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/may-25/self-host-kubernetes-pt2/self-host-kubernetes-pt2.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Howdy &amp;#x1f920;, and welcome back to second part of self-host kubernetes !&lt;/p&gt;
+&lt;p&gt;Before jump to the cluster setup and all the technical thingy, it&amp;rsquo;s better to understand
+the base components of how Kubernetes work and how it will interract
+each other within the cluster or just single instance of Kubernetes&lt;/p&gt;
+&lt;p&gt;I will try to make it compact and informative for everyone with little knowledge of Kubernetes
+understand how it work and help them to catch up quickly with some of terminology that I will use
+within my posts (there will be lot&amp;rsquo;s of part to deep dive into Kubernetes)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Self-host Kubernetes Cluster Pt.1</title>
       <link>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt1/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt1/</guid>
       <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/may-25/self-host-kubernetes-pt1/self-host-kubernetes-pt1.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/may-25/self-host-kubernetes-pt1/self-host-kubernetes-pt1.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Howdy &amp;#x1f920;
+Been while I didn&amp;rsquo;t update my post here, so in this post I will update my journey on self-host my kubernetes cluster.
+Yes you heard it right, since I got exposure to Kubernetes (also known as K8s in short) from EKS (Elastic Kubernetes Service by AWS) from my previous work.
+I got weird idea to fullfill my hands-on experience to learn more on K8s, also preparing myself if I change my mind in the future to get CKA certification.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How much cost did I save by moving to AWS S3 ? Pt.3</title>
