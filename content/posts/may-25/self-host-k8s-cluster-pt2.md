@@ -63,6 +63,39 @@ In container, the only different to virtualization as follows:
 
 <p style='text-align: justify;'>
 
-Let's jump into the Core Component of the Kubernetes. As we self-hsot our Kubernetes Cluster the main component we need to aware are **"Control Plane/s"** and **"Node/s"**
+Let's jump into the Core Component of the Kubernetes. As we self-host our Kubernetes Cluster the main component we need to aware are **"Control Plane/s"** and **"Node/s"**
+
+### Control Plane
+
+Basically Control Plane are the brain of K8s cluster, where it manage all the communication of it is Data Plane (Node/s), there are several compoenent within Control Plane we need to understand how it work, followings are the Control Plane components:
+
+![Control Plane Component](/img/may-25/self-host-kubernetes-pt2/control-plane-components.png "Control Plane Component")
+
+- **kube-apiserver**
+
+Kube API Server are the core component that expose Kubernetes HTTP API to be able to communicate outside of K8s Cluster.
+This core component will handle all the request such as `kubectl` command and the communication of the request coming into K8s cluster.
+
+- **etcd**
+
+ETCD are persistent database that keeping track of all the changes happen inside the K8s cluster.
+Usually in big cluster it will use ETCD, but on smaller deployment can use sqlite or dqlite depending on the needs and requirement.
+
+- **kube-scheduler**
+
+Kube Scheduler are the component that communicate between Kube API Server and the Node/s, in this case the scheduler will oversees
+the spawn of Pod/s that will be deployed to the Node/s, this also will taken some factors such as: individual and collective resource requirements, hardware/software/policy constraints, affinity and anti-affinity specifications, data locality, inter-workload interference, and deadlines.
+
+- **kube-control-manager**
+
+Lastly Kube Control Manager that will oversees the high level of K8s cluster, which mean the overall process happen inside the control plane.
+
+For example:
+
+- Node Controller, this will oversees the Node/s scale-up or scale-down and also keep track of the keep Alive of the nodes
+
+- Job Controller, this will oversees the CronJob that happen within the K8s cluster, which also track the success and fail state of the job
+
+above are just example, but only giving how the Kube control Manager work in general
 
 </p>

@@ -4,19 +4,26 @@
     <title>Dino-s26</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Dino-s26</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
-=======
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
->>>>>>> main
-=======
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
->>>>>>> parent of 4a63915 ([2-May-2025] Self-host kubernetes pt.2)
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-host Kubernetes Cluster Pt.2</title>
+      <link>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt2/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt2/</guid>
+      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/may-25/self-host-kubernetes-pt2/self-host-kubernetes-pt2.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Howdy &amp;#x1f920;, and welcome back to second part of self-host kubernetes !&lt;/p&gt;
+&lt;p&gt;Before jump to the cluster setup and all the technical thingy, it&amp;rsquo;s better to understand
+the base components of how Kubernetes work and how it will interract
+each other within the cluster or just single instance of Kubernetes&lt;/p&gt;
+&lt;p&gt;I will try to make it compact and informative for everyone with little knowledge of Kubernetes
+understand how it work and help them to catch up quickly with some of terminology that I will use
+within my posts (there will be lot&amp;rsquo;s of part to deep dive into Kubernetes)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Self-host Kubernetes Cluster Pt.1</title>
       <link>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt1/</link>
@@ -30,24 +37,13 @@ Been while I didn&amp;rsquo;t update my post here, so in this post I will update
 Yes you heard it right, since I got exposure to Kubernetes (also known as K8s in short) from EKS (Elastic Kubernetes Service by AWS) from my previous work
 I got weird idea to fullfill my hands-on experience to learn more on K8s, also preparing myself if I change my mind in the future to get CKA certification.&lt;/p&gt;</description>
     </item>
-=======
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
     <item>
       <title>How much cost did I save by moving to AWS S3 ? Pt.3</title>
       <link>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</guid>
       <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/nov-24/moving-data-gcp-to-aws-s3-pt3/mr-krab-money.png&#34;&gt;&lt;/p&gt;
-=======
-      
-      <guid>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</guid>
-      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/nov-24/moving-data-gcp-to-aws-s3-pt3/mr-krab-money.png&#34; alt=&#34;Intermezzo&#34;  /&gt;
-&lt;/p&gt;
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;In this part I will update regarding the Cost I spend for store most of my data in AWS S3 since I move 90% of my backup from GCP Cloud Storage &amp;#x1f613; &amp;hellip;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -55,10 +51,6 @@ I got weird idea to fullfill my hands-on experience to learn more on K8s, also p
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Let me put &lt;strong&gt;&amp;ldquo;Disclaimer&amp;rdquo;&lt;/strong&gt; first, since this is still my ongoing project to deprecate GCP Cloud Storage, the cost here is what I can present based on the data I gather and process on &lt;a href=&#34;https://vantage.sh&#34;&gt;Vantage&lt;/a&gt; that have been integrated to get detail costs from both Cloud Platform.&lt;/p&gt;</description>
     </item>
-<<<<<<< HEAD
-=======
-    
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
     <item>
       <title>How I&#39;m moving to AWS S3 Pt.2</title>
       <link>http://localhost:1313/posts/mar-24/moving-data-gcp-to-aws-s3-pt2/</link>
