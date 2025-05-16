@@ -4,96 +4,49 @@
     <title>Tags on Dino-s26</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Dino-s26</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K8s</title>
       <link>http://localhost:1313/tags/k8s/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/k8s/</guid>
-=======
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aws</title>
-      <link>http://localhost:1313/tags/aws/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/aws/</guid>
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
       <description></description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>Kubernetes</title>
       <link>http://localhost:1313/tags/kubernetes/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/kubernetes/</guid>
-=======
-      <title>Cloud Storage</title>
-      <link>http://localhost:1313/tags/cloud-storage/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cloud-storage/</guid>
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
       <description></description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>Learning</title>
       <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/learning/</guid>
-=======
-      <title>Cloud Tech</title>
-      <link>http://localhost:1313/tags/cloud-tech/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cloud-tech/</guid>
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
       <description></description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>Microk8s</title>
       <link>http://localhost:1313/tags/microk8s/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/microk8s/</guid>
-=======
-      <title>Gcp</title>
-      <link>http://localhost:1313/tags/gcp/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gcp/</guid>
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
       <description></description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>Self-Host</title>
       <link>http://localhost:1313/tags/self-host/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/self-host/</guid>
-=======
-      <title>S3</title>
-      <link>http://localhost:1313/tags/s3/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/s3/</guid>
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>http://localhost:1313/tags/tech/</link>
-<<<<<<< HEAD
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-=======
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
->>>>>>> 6e144f5 (Nov-24: How much cost did I save by moving to AWS S3)
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
     </item>
