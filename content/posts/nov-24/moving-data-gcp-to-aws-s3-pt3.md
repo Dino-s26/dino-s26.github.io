@@ -1,7 +1,6 @@
 ---
 ShowBreadCrumbs: true
-searchHidden: true
-draft: true
+searchHidden: false
 author: ["Dino"]
 title: "How much cost did I save by moving to AWS S3 ? Pt.3"
 date: 2024-11-10
