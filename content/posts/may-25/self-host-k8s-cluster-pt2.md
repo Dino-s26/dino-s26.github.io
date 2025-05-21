@@ -132,3 +132,10 @@ Container runtime are the underlay which pods / container within the node will b
 Within kubernetes, it will use container runtime like Docker, ContainerD, CRI-O, and other that supported by kubernetes.
 
 </p>
+
+## What to see on next part ?
+
+I hope my Part-2 writing series of Self-host Kubernetes can help you (and also myself) learn more about kubernetes deeper.
+Next part I will post about how to host it in your local machine and what are the things you need to prepare in-order to host it properly.
+
+Dont worry I will not host it on AWS or other Cloud Platform :wink:, and see you on my next post.
