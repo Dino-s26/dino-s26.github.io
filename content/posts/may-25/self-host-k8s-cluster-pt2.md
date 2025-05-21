@@ -3,7 +3,7 @@ ShowBreadCrumbs: true
 searchHidden: false
 author: ["Dino"]
 title: "Self-host Kubernetes Cluster Pt.2"
-date: 2025-05-12
+date: 2025-05-22
 tags: 
 - kubernetes
 - k8s
@@ -25,8 +25,8 @@ Before jump to the cluster setup and all the technical thingy, it's better to un
 the base components of how Kubernetes work and how it will interract
 each other within the cluster or just single instance of Kubernetes
 
-I will try to make it compact and informative for everyone with little knowledge of Kubernetes
-understand how it work and help them to catch up quickly with some of terminology that I will use
+I'll try to keep it compact and informative, so that people with little knowledge of Kubernetes can understand how it works
+and help them to catch up quickly with some of terminology that I will use
 within my posts (there will be lot's of part to deep dive into Kubernetes)
 
 </p>
@@ -97,5 +97,38 @@ For example:
 - Job Controller, this will oversees the CronJob that happen within the K8s cluster, which also track the success and fail state of the job
 
 above are just example, but only giving how the Kube control Manager work in general
+
+### Node (Data Plane)
+
+![Node Component](/img/may-25/self-host-kubernetes-pt2/node-components.png "Node Component")
+
+Node or we can just straightly say Data Plane, are the part where kubernetes deploy it is services like pods, ingress, persistent-volume, etc.
+There are also couple component within the Node (Data Plane) such as:
+
+- **Kubelet**
+
+Kubelet are basically the component where it communicate with the node and also the Kubernetes control-plane API, which ensure the Pods
+and it is container or side-car container run properly within the node.
+
+- **Kube-Proxy**
+
+Kube-Proxy are basically the component where it maintain network rules and communication within or inter-node communication.
+This mean only including L4 (TCP/UDP) communication is use within the node (intern-node) and inside the node such as network routing for services (Node IP, Cluster IP, etc), but excluding the pod-to-pod DNS communication, only service-to-pod communication (please cmiiw on this, still kind of lost sometimes).
+
+Since we use CNI to handle pod-to-pod IP communication which will communicate with the Kube-Proxy or other available network plugin.
+
+for easier to understand terminology can refer to this table below
+
+|Layer|Handle By|Role as|
+|:----|:-------|:------|
+|L2/L3|CNI     |Pod-to-pod networking|
+|L4   |kube-proxy|Service-level load balancing|
+|L7   |Ingress/Mesh|App-aware routing, TLS, etc|
+
+- **Container Runtime**
+
+Container runtime are the underlay which pods / container within the node will be use to run the containers effectively and handle it is lifecycle and execution of the containers.
+
+Within kubernetes, it will use container runtime like Docker, ContainerD, CRI-O, and other that supported by kubernetes.
 
 </p>
