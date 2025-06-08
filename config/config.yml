@@ -7,7 +7,7 @@ pagination:
 theme: "PaperMod"
 
 enableRobotsTXT: false
-buildDrafts: true
+buildDrafts: false
 buildFuture: true
 buildExpired: false
 

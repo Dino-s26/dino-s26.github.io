@@ -1,6 +1,7 @@
 ---
 ShowBreadCrumbs: true
 searchHidden: false
+draft: true
 author: ["Dino"]
 title: "[DRAFT] How much cost did I save by moving to AWS S3 ? Pt.3"
 date: 2024-11-10
@@ -19,7 +20,7 @@ tags:
 ![Intermezzo](/img/nov-24/moving-data-gcp-to-aws-s3-pt3/mr-krab-money.png)
 
 <p style='text-align: justify;'>
-Henlo again ... 
+Henlo again ...
 been while not updating, yeah been busy with lot of stuff especially work and also with moving to new places ...
 
 In this part I will update regarding the Cost I spend for store most of my data in AWS S3 since I move 90% of my backup from GCP Cloud Storage :sweat: ...
@@ -38,13 +39,11 @@ So monthly I usually spend around **~150k IDR** to **~350k IDR** for GCP Cloud S
 
 **[GCP Storage Class Breakdown]**![GCP Class Cost Breakdown](/img/nov-24/moving-data-gcp-to-aws-s3-pt3/gcp-cloud-storage-cost-class-breakdown.png "GCP Storage Class Breakdown")
 
-As a note, the standard class cost increase do to my migration data. TL;DR, my data are inside **Archive Class** and **Nearline Class**, which I need to change the class to **Standard Class** inorder to move the data without adding additional cost, also the data was stored in Singapore Region :cry:. 
+As a note, the standard class cost increase do to my migration data. TL;DR, my data are inside **Archive Class** and **Nearline Class**, which I need to change the class to **Standard Class** inorder to move the data without adding additional cost, also the data was stored in Singapore Region :cry:.
 
 *PS: Ignore November 2024 here as the data not yet consolidated*
 
-
 **[GCP Cost Billing]**
-
 
 Moving on ...
 here's the total billing each month I pay (Converted to $, for AWS Cost Comparison) ...
