@@ -6,8 +6,30 @@
     <description>Recent content on Dino-s26</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-host Kubernetes Cluster Pt.3</title>
+      <link>http://localhost:1313/posts/jun-25/self-host-k8s-cluster-pt3/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jun-25/self-host-k8s-cluster-pt3/</guid>
+      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/jun-25/self-host-kubernetes-pt3/self-host-kubernetes-pt3.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Howdy &amp;#x1f920;, and welcome back to third part of self-host kubernetes !&lt;/p&gt;
+&lt;p&gt;This part we will create simple K8s cluster with Minikube and how we will setup
+in MacOS (for linux and windows should be similar, but you will need to adjust a bit).&lt;/p&gt;
+&lt;p&gt;Before we start we will need to prepare couple of stuff as follows&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minikube (v1.35.0)&lt;/li&gt;
+&lt;li&gt;Docker Desktop (4.40.0)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;start-single-node-k8s&#34;&gt;Start single node K8s&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Let&amp;rsquo;s start with simple task here, creating single node K8s with Minikube.
+This Node will act as Control-Plane and Worker.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Self-host Kubernetes Cluster Pt.2</title>
       <link>http://localhost:1313/posts/may-25/self-host-k8s-cluster-pt2/</link>
@@ -36,20 +58,6 @@ within my posts (there will be lot&amp;rsquo;s of part to deep dive into Kuberne
 Been while I didn&amp;rsquo;t update my post here, so in this post I will update my journey on self-host my kubernetes cluster.
 Yes you heard it right, since I got exposure to Kubernetes (also known as K8s in short) from EKS (Elastic Kubernetes Service by AWS) from my previous work
 I got weird idea to fullfill my hands-on experience to learn more on K8s, also preparing myself if I change my mind in the future to get CKA certification.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How much cost did I save by moving to AWS S3 ? Pt.3</title>
-      <link>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</guid>
-      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/nov-24/moving-data-gcp-to-aws-s3-pt3/mr-krab-money.png&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;In this part I will update regarding the Cost I spend for store most of my data in AWS S3 since I move 90% of my backup from GCP Cloud Storage &amp;#x1f613; &amp;hellip;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Let me put &lt;strong&gt;&amp;ldquo;Disclaimer&amp;rdquo;&lt;/strong&gt; first, since this is still my ongoing project to deprecate GCP Cloud Storage, the cost here is what I can present based on the data I gather and process on &lt;a href=&#34;https://vantage.sh&#34;&gt;Vantage&lt;/a&gt; that have been integrated to get detail costs from both Cloud Platform.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I&#39;m moving to AWS S3 Pt.2</title>

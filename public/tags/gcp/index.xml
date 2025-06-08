@@ -6,22 +6,8 @@
     <description>Recent content in Gcp on Dino-s26</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How much cost did I save by moving to AWS S3 ? Pt.3</title>
-      <link>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nov-24/moving-data-gcp-to-aws-s3-pt3/</guid>
-      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/nov-24/moving-data-gcp-to-aws-s3-pt3/mr-krab-money.png&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;In this part I will update regarding the Cost I spend for store most of my data in AWS S3 since I move 90% of my backup from GCP Cloud Storage &amp;#x1f613; &amp;hellip;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Let me put &lt;strong&gt;&amp;ldquo;Disclaimer&amp;rdquo;&lt;/strong&gt; first, since this is still my ongoing project to deprecate GCP Cloud Storage, the cost here is what I can present based on the data I gather and process on &lt;a href=&#34;https://vantage.sh&#34;&gt;Vantage&lt;/a&gt; that have been integrated to get detail costs from both Cloud Platform.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>How I&#39;m moving to AWS S3 Pt.2</title>
       <link>http://localhost:1313/posts/mar-24/moving-data-gcp-to-aws-s3-pt2/</link>
