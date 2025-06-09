@@ -133,7 +133,7 @@ Within kubernetes, it will use container runtime like Docker, ContainerD, CRI-O,
 
 </p>
 
-## What to see on next part ?
+## What to see on the next part ?
 
 I hope my Part-2 writing series of Self-host Kubernetes can help you (and also myself) learn more about kubernetes deeper.
 Next part I will post about how to host it in your local machine and what are the things you need to prepare in-order to host it properly.
