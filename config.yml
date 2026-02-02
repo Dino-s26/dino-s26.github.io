@@ -90,3 +90,7 @@ params:
 
   staticDir:
   - static
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
