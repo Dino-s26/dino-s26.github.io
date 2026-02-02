@@ -59,7 +59,7 @@ jobs:
         hugo \
           --gc \
           --minify \
-          --config config/config.yml \
+          --config config.yml \
           --baseURL "${{ steps.pages.outputs.base_url }}/"          
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
