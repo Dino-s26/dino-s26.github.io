@@ -23,22 +23,23 @@ menu:
     name: About Me
     url: /about/
     weight: 10
-  - identifier: posts
-    name: Posts
-    url: /posts/
-    weight: 20
-  - idenfitier: archives
-    name: Archives
-    url: /archives/
-    weight: 30
-  - identifier: search
-    name: Search
-    url: /search/
-    weight: 40
   - identifier: consulting
     name: Consulting
     url: /consulting/
+    weight: 20
+  - identifier: posts
+    name: Posts
+    url: /posts/
+    weight: 30
+  - idenfitier: archives
+    name: Archives
+    url: /archives/
+    weight: 40
+  - identifier: search
+    name: Search
+    url: /search/
     weight: 50
+
 
 outputs:
   home:
