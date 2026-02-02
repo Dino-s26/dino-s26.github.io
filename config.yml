@@ -6,7 +6,7 @@ pagination:
 
 theme: "PaperMod"
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: true
 buildExpired: false
@@ -35,6 +35,10 @@ menu:
     name: Search
     url: /search/
     weight: 40
+  - identifier: consulting
+    name: Consulting
+    url: /consulting/
+    weight: 50
 
 outputs:
   home:
@@ -58,7 +62,7 @@ params:
   - posts
   homeInfoParams:
     Title: Hellow, and welcome
-    Content: "I'm Dino, a Tech entusiast, like to learn new tech and write posts to be share as knowledge ... [more](about)"
+    Content: "I'm Dino, a Tech enthusiast, like to learn new tech and write posts to be share as knowledge ... [more](about)"
 
   socialIcons:
   - name: "Linkedin"
@@ -71,18 +75,22 @@ params:
   cover:
     hidden: true
     hiddenInList: true
-    hiddhenInSingle: true
+    hiddenInSingle: true
     shouldSort: true
 
-  # fuseOpts:
-  #  isCaseSensitive: false
-  #  shouldSort: true
-  #  location: 0
-  #  distance: 1000
-  #  threshold: 0.4
-  #  minMatchCharLength: 0
-  #  useExtendedSearch: true
-  #  keys: ["title","permalink","summary","content"]
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    useExtendedSearch: true
+    keys: ["title","permalink","summary","content"]
 
   staticDir:
   - static
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
