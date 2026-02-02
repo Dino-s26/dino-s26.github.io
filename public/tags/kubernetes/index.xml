@@ -4,7 +4,7 @@
     <title>Kubernetes on Dino-s26</title>
     <link>http://localhost:1313/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on Dino-s26</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
@@ -29,6 +29,18 @@ in MacOS (for linux and windows should be similar, but you will need to adjust a
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Let&amp;rsquo;s start with simple task here, creating single node K8s with Minikube.
 This Node will act as Control-Plane and Worker.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Self-host Kubernetes Cluster Pt.4</title>
+      <link>http://localhost:1313/posts/jun-25/self-host-k8s-cluster-pt4/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jun-25/self-host-k8s-cluster-pt4/</guid>
+      <description>&lt;h2 id=&#34;intermezzo&#34;&gt;Intermezzo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermezzo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/jun-25/self-host-kubernetes-pt4/self-host-kubernetes-pt4.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Meowdy &amp;#x1f63a;, been while not update the article series and welcome to the 4th Part of self-host kubernetes !&lt;/p&gt;
+&lt;p&gt;This part we will setup the Low spec Production read K8s Clusters (usually used for Edge / IoT cases). I was planned to use microk8s by ubuntu but since the k0s (K-Zero-S) just graduate from incubation, I would like to try that one&lt;/p&gt;
+&lt;p&gt;Before we start, here are the specs I use for the Server I used as the Control-Plane and worker&lt;/p&gt;</description>
     </item>
     <item>
       <title>Self-host Kubernetes Cluster Pt.2</title>
