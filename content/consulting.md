@@ -1,12 +1,12 @@
 ---
-title: "Consulting Services"
+title: "Consulting Services | Dino Solution Tech"
 draft: false
 ShowBreadCrumbs: true
 ---
-
-Professional consulting focused on reliability, scalability, and automation for modern infrastructure and cloud, tailored to your requirement based on the best practices.
+Dino Solution Tech provide Professional consulting focused on reliability, scalability, and automation for modern infrastructure and cloud, tailored to your requirement based on the best practices.
 
 ### Technical Expertise
+
 With a background in Infrastructure-as-Service and SRE, I deliver production-grade environments tailored to your specific scale. My goal is to provide high-performance solutions that remain simple to maintain and cost-effective as you grow based on your requirements.
 
 ## Services Offered
@@ -25,12 +25,12 @@ With a background in Infrastructure-as-Service and SRE, I deliver production-gra
 
 A simple, transparent process to get your infrastructure moving.
 
-1.  **📩 Inquiry**: Reach out via email with a brief overview of your technical needs.
-2.  **🔍 Assessment**: We'll review the technical scope and complexity to ensure a perfect fit.
-3.  **📄 Proposal & Agreement**: Clear scope of work defined with transparent invoicing.
+1. **📩 Inquiry**: Reach out via email with a brief overview of your technical needs.
+2. **🔍 Assessment**: We'll review the technical scope and complexity to ensure a perfect fit.
+3. **📄 Proposal & Agreement**: Clear scope of work defined with transparent invoicing.
     - *Note: 20-50% upfront payment is required for Project-Based engagements, negotiated during the proposal phase.*
-4.  **⚙️ Execution / Delivery**: Technical implementation with regular updates and focused delivery.
-5.  **✨ Handover**: Final walkthrough, technical documentation, and project handover.
+4. **⚙️ Execution / Delivery**: Technical implementation with regular updates and focused delivery.
+5. **✨ Handover**: Final walkthrough, technical documentation, and project handover.
 
 ---
 
